@@ -5,7 +5,7 @@ Zbadanie wpływ kąta natarcia na nośność i opór skrzydła samolotu. Wykonan
 0°, 2°, 4°, 6°, 8°, 10°, 12°, 14°, 16°, 18°, 20°.
 
 Siatka MES dla 10°:
-![Siatka MES](./Skrzydło/zrzuty_ekranu/skrzydło4.png)
+![](./Skrzydło/zrzuty_ekranu/skrzydło4.png)
 
 Rozkład ciśnienia dla 10°:
 ![ ](./Skrzydło/zrzutyekranu/skrzydlo3.png)
