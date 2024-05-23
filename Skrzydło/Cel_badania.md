@@ -1,4 +1,4 @@
-# Modelowanie opływu powietrza wokół skrzydła samolotu/
+# Modelowanie opływu powietrza wokół skrzydła samolotu
 ## Cel: analiza wpływu kąta natarcia na nośność i opór skrzydła samolotu.
 
 Zbadanie wpływ kąta natarcia na nośność i opór skrzydła samolotu. Wykonanie symulacji parametrycznnej dla następujących wartości kąta natarcia:
