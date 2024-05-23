@@ -8,7 +8,7 @@ Siatka MES dla 10°:
 ![ ](./zruty_ekranu/skrzydło4.png)
 
 Rozkład ciśnienia dla 10°:
-![ ](./solidworks/zrzutyekranu/skrzydlo3.png)
+![ ](./Skrzydło/zrzutyekranu/skrzydlo3.png)
 
 Wyniki pomiarowe dla symulacji parametrycznej dla następujących wartości kąta natarcia:
 0°, 2°, 4°, 6°, 8°, 10°, 12°, 14°, 16°, 18°, 20°:
